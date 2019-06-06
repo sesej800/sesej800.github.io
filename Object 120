@@ -21,7 +21,7 @@
             }
             
             .jumbotron {
-                background-image: url("https://cl.ly/3o1l0o1d343A/Screen%20Shot%202017-04-07%20at%205.57.16%20PM.png");
+                background-image: url("https://i.imgur.com/w74m9yY.jpg");
                 
                 color: #EEE;
             }
@@ -79,7 +79,7 @@
           <div class="row">
             <div class="col-md-4">
                 <br>
-                <img src="https://cl.ly/3g150z3B1g2g/Screen%20Shot%202017-04-07%20at%206.35.59%20PM.png">
+                <img src="https://images.uncyclomedia.co/uncyclopedia/en/thumb/9/91/Angni.jpg/340px-Angni.jpg">
               <h2>What is Bootstrap?</h2>
               
               <p>In the <a href="https://codehs.com/info/curriculum/web_design">CodeHS Web Design course</a>, we are learning how to build websites using Bootstrap! <a href="https://getbootstrap.com/">Bootstrap</a> is framework for developing responsive, mobile websites. It's like a toolbox for web developers. Click here to learn more!</p>
@@ -87,7 +87,7 @@
             </div>
             <div class="col-md-4">
                 <br>
-                <img src="https://cl.ly/383H0O1k173r/Screen%20Shot%202017-04-07%20at%206.43.51%20PM.png">
+                <img src="https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/b5uqhm8umkhqx645rpyq/rap-beef-2014-social-media">
               <h2>What is Mobile Responsive Web Design?</h2>
               <p>People view websites from all kinds of devices. In this course, we are learning to make websites that are usable from all devices using mobile responsive web design. Just try resizing your browser window and see how this site responds! Click here to learn more.
               </p>
@@ -95,7 +95,7 @@
            </div>
             <div class="col-md-4">
               <br>
-              <img src="https://cl.ly/2W1l3l220k0e/Screen%20Shot%202017-04-07%20at%207.01.07%20PM.png">
+              <img src="https://steamuserimages-a.akamaihd.net/ugc/851595033346189751/94A349F69151C7AB559F840DB6F0AA173BCDD0A7/">
               <h2>Who Made this Website?</h2>
               
               <p>This Website was built by Student Group 3. Click here to meet the team!</p>
